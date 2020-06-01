@@ -3,4 +3,4 @@ Hi teman-teman. Namaku Rangga. Aku seorang fresh graduate dari Matematika UGM. D
 ## My Analysis
 Jadi ini hasil analisis data yang pernah aku lakukan. Beberapa masih aku kerjakan jadi aku hanya membagikan yang sudah selesai saja ya. Silakan dicek dan ditunggu komentarnya ya. Semoga bermanfaat :)
 
-1. [Motor Trend US](https://github.com/Rangga1708/Motor_Trend_US_Analysis)
+1. [Motor Trend US](https://rangga1708.github.io/motor-trend-US-analysis)
